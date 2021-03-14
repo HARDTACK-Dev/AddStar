@@ -1,0 +1,2 @@
+# AddStar
+Convenient bookmark adder!
